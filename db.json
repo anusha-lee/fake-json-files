@@ -417,46 +417,6 @@
     "社團Hiking Group": "新北市嘟嘟健行登山協會",
     "響導Guides": ["彭家渝0932081350", "林陵"],
     "其他Other": " 北得拉曼巨木步道位於新竹縣尖石鄉水田部落(新樂村)，全長約2.6公里是林務局於建國百年所推薦的百條步道之一，沿途有迴音谷、小瀑布等景點，北得拉曼巨木是目前台灣發現海拔最低的紅檜巨木群，每年秋季是欣賞台灣山毛櫸的熱點，金色山脈，繽紛的色彩及霧中枝枒剪影...宛如人間仙境。"
-    },
-	
-	"": {
-    "日期Date": "2019/10/06",
-	"集合Meetup": {
-		"集合時間Time": "08:30",
-		"集合地點Meetup Point": "",
-		"交通Transportation": {
-			"交通工具Type of Transportation": "",
-			"下車地點Starting Point": ""
-		}		
-	},    
-    "難度Level": {
-		"里程Distance": "12KM",
-		"難度": "A+"
-	},
-    "費用Fee": "自理",
-    "社團Hiking Group": "新北市嘟嘟健行登山協會",
-    "響導Guides": [""],
-    "其他Other": ""
-    },
-	
-	"": {
-    "日期Date": "2019/10/06",
-	"集合Meetup": {
-		"集合時間Time": "08:30",
-		"集合地點Meetup Point": "",
-		"交通Transportation": {
-			"交通工具Type of Transportation": "",
-			"下車地點Starting Point": ""
-		}		
-	},    
-    "難度Level": {
-		"里程Distance": "12KM",
-		"難度": "A+"
-	},
-    "費用Fee": "自理",
-    "社團Hiking Group": "新北市嘟嘟健行登山協會",
-    "響導Guides": [""],
-    "其他Other": ""
     }
 		
 }
